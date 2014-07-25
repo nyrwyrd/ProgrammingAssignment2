@@ -1,4 +1,8 @@
-
+# if you happen to stumble onto this file, ignore it
+# this is the same implementation as "cachematrix.R" but it was renamed for development
+# and not intended for upload; just can't figure how to get rid of it
+# please see "cachematrix.R"
+# 
 # matrix cache functions
 # author: jrb
 # date: 2014-07-14
